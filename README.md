@@ -1,6 +1,6 @@
 ## Hi, I'm Valentine Maiyo
 
-**Full-Stack Developer · APIs & Integrations**
+**Full-Stack Developer**
 
 [LinkedIn](https://www.linkedin.com/in/valentine-maiyo/) · [Email](mailto:valentinemaiyo.dev@gmail.com)
 
