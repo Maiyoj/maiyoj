@@ -11,8 +11,8 @@
 </p>
 
 About me
-I'm a full-stack developer based in Kenya with over four years of experience building, integrating, and supporting web applications. My work spans frontend development, backend services, databases, and deployment.
-I currently work as a Software Engineer at Ingenuity Business Solutions. I enjoy connecting systems, working through technical problems, and understanding how an application fits into the way people work.
+I'm a full-stack developer based in Kenya with over four years of experience building, integrating, and supporting web applications. My work spans frontend 
+I enjoy connecting systems, working through technical problems, and understanding how an application fits into the way people work.
 I'm also exploring AI agents, MCP, and automation, especially how they can work with existing applications and business systems.
 Tech stack
 <p>
