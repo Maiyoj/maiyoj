@@ -7,7 +7,7 @@
 I build web applications, connect systems, and enjoy figuring out how things work.
 
 - Based in Kenya.
-- Software Engineer at **Ingenuity Business Solutions**.
+- Software Engineer at **IBS**.
 - Working across frontend, backend, databases, and deployment.
 - Exploring **AI agents, MCP, and Python automation**.
 
